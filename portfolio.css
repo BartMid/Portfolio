@@ -1,0 +1,233 @@
+
+#portfolio{
+  width: 100%;
+  height: 25em;
+  background-color: #f4f4f4;
+  padding-top: 2%;
+  padding-bottom: 28%;
+}
+
+#portfolio h1{
+  text-align: center;
+  font-family: lato;
+  font-weight: bold;
+  font-size: 300%;
+  padding-top: 2.5%;
+  padding-bottom: 3%;
+}
+
+
+div.polaroid {
+  width: 25%;
+  float: left;
+  margin-left: 6.4%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+@media only screen and (max-width: 500px) {
+  div.polaroid {
+    width: 90%;
+    float: none;
+    margin-left: 5%;
+  }
+
+  #portfolio h1{
+    text-align: center;
+    font-family: lato;
+    font-weight: bold;
+    font-size: 300%;
+    padding-top: 11%;
+    padding-bottom: 3%;
+  }
+
+  div.container {
+    text-align: center;
+  }
+
+
+  #portfolio{
+    height: 1650px;
+    padding: 0 !important;
+  }
+
+  #title2{
+    font-family: lato;
+    font-size: 7vw !important;
+    font-weight: bold;
+  }
+
+  #band1{
+    font-size: 3.3vw !important;
+  }
+
+  #band2{
+    font-size: 2.83vw !important;
+  }
+
+  #band3{
+    font-size: 3.7vw !important;
+  }
+
+  #band4{
+    font-size: 3.85vw !important;
+  }
+
+  #band5{
+    font-size: 3.4vw !important;
+    padding-bottom: 3% !important;
+  }
+
+  #insta1{
+    font-size: 2.6vw !important;
+  }
+
+  #insta2{
+    font-size: 3.1vw !important;
+  }
+
+  #insta3{
+    font-size: 3.5vw !important;
+  }
+
+  #insta4{
+    font-size: 3.93vw !important;
+  }
+
+  #insta5{
+    font-size: 3.3vw !important;
+    padding-bottom: 8% !important;
+  }
+
+  #guest1{
+    font-family: lato;
+    font-size: 3.3vw !important;
+  }
+
+  #guest2{
+    font-size: 2.6vw !important;
+  }
+
+  #guest3{
+    font-size: 2.78vw !important;
+
+  }
+
+  #guest4{
+    font-size: 2.99vw !important;
+  }
+
+  #guest5{
+    font-size: 3.06vw !important;
+    padding-bottom: 7% !important;
+  }
+
+}
+
+#title2{
+  font-family: lato;
+  font-size: 2vw;
+  font-weight: bold;
+}
+
+#band1{
+  font-family: lato;
+  font-size: 1.05vw;
+}
+
+#band2{
+  font-family: lato;
+  font-size: 0.9vw;
+  margin-top: -35px;
+
+}
+
+#band3{
+  font-family: lato;
+  font-size: 1.17vw;
+  margin-top: -35px;
+
+}
+
+#band4{
+  font-family: lato;
+  font-size: 1.21vw;
+  margin-top: -39px;
+}
+
+#band5{
+  font-family: lato;
+  font-size: 1.065vw;
+  margin-top: -38px;
+  padding-bottom: 4%;
+}
+
+#insta1{
+  font-family: lato;
+  font-size: 0.8vw;
+}
+
+#insta2{
+  font-family: lato;
+  font-size: 0.955vw;
+  margin-top: -32px;
+
+}
+
+#insta3{
+  font-family: lato;
+  font-size: 1.058vw;
+  margin-top: -34px;
+
+}
+
+#insta4{
+  font-family: lato;
+  font-size: 1.19vw;
+  margin-top: -38px;
+}
+
+#insta5{
+  font-family: lato;
+  font-size: 1.01vw;
+  margin-top: -37px;
+  padding-bottom: 11.75%;
+}
+
+#guest1{
+  font-family: lato;
+  font-size: 1.05vw;
+}
+
+#guest2{
+  font-family: lato;
+  font-size: 0.82vw;
+  margin-top: -35px;
+
+}
+
+#guest3{
+  font-family: lato;
+  font-size: 0.87vw;
+  margin-top: -30px;
+
+}
+
+#guest4{
+  font-family: lato;
+  font-size: 0.94vw;
+  margin-top: -33px;
+}
+
+#guest5{
+  font-family: lato;
+  font-size: 0.96vw;
+  margin-top: -34px;
+  padding-bottom: 12.6%;
+}

@@ -1,0 +1,42 @@
+#home h1{
+  text-align: center;
+  font-family: lato;
+  font-weight: bold;
+  font-size: 300%;
+  padding-top: 240px;
+}
+
+#home h2{
+  margin-top: -45px;
+  text-align: center;
+  font-family: lato;
+  font-weight: lighter;
+  font-size: 250%;
+}
+
+
+#home h3{
+  margin-top: -45px;
+  text-align: center;
+  font-family: lato;
+  font-weight: bold;
+  font-size: 275%;
+}
+
+#home{
+  width: 100%;
+  height: 100vh;
+  background-color: #f4f4f4;
+  padding-top: 2%;
+}
+
+@media only screen and (max-width: 500px) {
+  #home{
+    width: 100%;
+  }
+
+  #name{
+    display: none;
+  }
+
+}
